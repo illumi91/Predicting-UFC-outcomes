@@ -72,7 +72,7 @@ Down below I plotted a heatmap to check correlation between features.
 
 ![ufc](https://raw.githubusercontent.com/illumi91/Predicting-UFC-outcomes/master/ufc_data_images/predict.PNG)
 
-# Conclusion
+# Conclusions
 
 
 From our analysis, based on our prediction, we advice our clients when betting to consider in order of importance these factors:
