@@ -63,9 +63,7 @@ Here we can see a plot we the top features for predicting a fight:
 
 ![ufc](https://raw.githubusercontent.com/illumi91/Predicting-UFC-outcomes/master/ufc_data_images/top_feat.PNG)
 
-# Now it's your turn, predict a fight!
-
-![ufc](https://raw.githubusercontent.com/illumi91/Predicting-UFC-outcomes/master/images/UFC-Fighters-Dark-Background-McGregor-vs-Cerrone-UFC-Logo.jpg)
+# Now it's your turn predicting a fight!
 
 ![ufc](https://raw.githubusercontent.com/illumi91/Predicting-UFC-outcomes/master/ufc_data_images/predict.PNG)
 
