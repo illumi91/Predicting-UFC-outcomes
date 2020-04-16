@@ -16,7 +16,7 @@ Our goal is to create a Machine Learning Model such that we can get some valuabl
 
 We will be working with UFC data containing information about fights from 1993 up till today.
 
-![https://github.com/illumi91/Predicting-UFC-outcomes/blob/master/ufc_data_images/uf.jpeg](https://github.com/illumi91/Predicting-UFC-outcomes/blob/master/ufc_data_images/uf.jpegg)
+![ufc](https://raw.githubusercontent.com/illumi91/Predicting-UFC-outcomes/master/ufc_data_images/uf.jpeg)
 
 The Database can be found in Keggle and you can download it [here](https://www.kaggle.com/rajeevw/ufcdata).
 
@@ -72,7 +72,7 @@ Down below I plotted a heatmap to check correlation between features.
 
 ![ufc](https://raw.githubusercontent.com/illumi91/Predicting-UFC-outcomes/master/ufc_data_images/predict.PNG)
 
-# Conclusions
+# Conclusion
 
 
 From our analysis, based on our prediction, we advice our clients when betting to consider in order of importance these factors:
