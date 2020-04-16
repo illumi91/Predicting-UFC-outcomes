@@ -5,7 +5,6 @@
 - data_93.csv: Raw Data
 - UFC_classification_project.ipynb: Notebook for Analysis
 - ufc_project_pdf.pdf: Slide presention
-- ufc_data_images: folder containig images used for README
 
 ## Introduction
 
@@ -17,7 +16,7 @@ Our goal is to create a Machine Learning Model such that we can get some valuabl
 
 We will be working with UFC data containing information about fights from 1993 up till today.
 
-![https://raw.githubusercontent.com/illumi91/dsc-mod-5-project-online-ds-pt-051319/master/images/uf.jpeg](https://raw.githubusercontent.com/illumi91/dsc-mod-5-project-online-ds-pt-051319/master/images/uf.jpeg)
+![https://github.com/illumi91/Predicting-UFC-outcomes/blob/master/ufc_data_images/uf.jpeg](https://github.com/illumi91/Predicting-UFC-outcomes/blob/master/ufc_data_images/uf.jpegg)
 
 The Database can be found in Keggle and you can download it [here](https://www.kaggle.com/rajeevw/ufcdata).
 
@@ -63,11 +62,17 @@ Here we can see a plot we the top features for predicting a fight:
 
 ![ufc](https://raw.githubusercontent.com/illumi91/Predicting-UFC-outcomes/master/ufc_data_images/top_feat.PNG)
 
-# Now it's your turn predicting a fight!
+Down below I plotted a heatmap to check correlation between features.
+
+![ufc](https://github.com/illumi91/Predicting-UFC-outcomes/blob/master/ufc_data_images/heaTmap_corr.PNG)
+
+# Now it's your turn, predict a fight!
+
+![ufc](https://raw.githubusercontent.com/illumi91/Predicting-UFC-outcomes/master/ufc_data_images/UFC-Fighters-Dark-Background-McGregor-vs-Cerrone-UFC-Logo.jpg)
 
 ![ufc](https://raw.githubusercontent.com/illumi91/Predicting-UFC-outcomes/master/ufc_data_images/predict.PNG)
 
-# Conclusion
+# Conclusions
 
 
 From our analysis, based on our prediction, we advice our clients when betting to consider in order of importance these factors:
